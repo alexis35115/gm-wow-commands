@@ -8,6 +8,7 @@ https://www.reaper-x.com/2007/09/21/wow-mangos-gm-game-master-commands/
 https://www.briankoponen.com/world-warcraft-single-player-server-gm-commands/
 
 To turn GM mode on  : .gm on
+Teleport to GM island : .tele GM island
 
 ## GENERAL
 
@@ -27,7 +28,6 @@ Sets all skills of the targeted player to their maximum VALUES for its current l
 
 ## SPELL
 
-- .learn all
 - .learn all_priest
 - .learn all_myspells
 - .learn all_lang
@@ -44,6 +44,7 @@ Sets all skills of the targeted player to their maximum VALUES for its current l
 - Cloak of Suturing : .additem 22960
 - Band of Unanswered Prayers : .additem 22939
 - Eye of the Dead : .additem 23047
+- Rejuvenating Gem : .additem 19395
 - Hammer of the Twisting Nether : .additem 23056
 - Sapphiron's Right Eye : .additem 23048
 - Wand of the Whispering Dead : .additem 23009
