@@ -83,3 +83,7 @@ To learn all profession : .learn all_crafts
 
 - Thorium Grenade : .additem 15993
 - Goblin Sapper Charge : .additem 10646
+
+## Macros
+
+Add examples for macros
